@@ -1,0 +1,13 @@
+body {
+    margin: 0%;
+    background-color: black;
+}
+.header {
+    background-color: bisque;
+    padding: 40px;
+}
+.main
+{
+    background-color: aquamarine;
+    padding: 40px;
+}

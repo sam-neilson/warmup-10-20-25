@@ -1,12 +1,18 @@
 .header {
-    background-color: blanchedalmond;
+    background-color: rgb(235, 58, 46);
+    padding: 40px;
 
 }
 .main {
-    background-color: azure;
+    background-color: rgb(140, 199, 247);
     padding: 40px;
 }
 
 body {
     margin: 0%;
+}
+.wrapper
+{
+    max-width: 600px;
+    margin: auto;
 }
